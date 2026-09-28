@@ -1,12 +1,12 @@
 
   "name": "AFK Bot",
-  "bot-account": {d
+  "bot-account": 
     "username": "Slobot00",
     "password": "",
     "type": "offline"
-  },
-  "server": {
-    "ip":GreenFlames-lsGh.aternos.me
+
+  "server": 
+    "ip":"GreenFlames-lsGh.aternos.me"
   
   
     "port": 21546,
@@ -85,5 +85,5 @@
   },
   "chat": {
     "respond": true
-  }
-}
+  
+
